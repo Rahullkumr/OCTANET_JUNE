@@ -11,7 +11,7 @@ Web Dev Internship 2023
 | 5 |  | [Task 5](https://octanet.in/task-5/) |  |
  
 ### 1. Landing Page
-![](task1.jpg) <br>
+![](Task_assigned/task1.jpg) <br>
 what I built: <br>
 ![taskXdone.jpg]()<br>
 
