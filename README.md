@@ -12,15 +12,23 @@ Web Dev Internship 2023
  
 ### 1. Landing Page
 ![](task1.jpg) <br>
+what I built: <br>
+![taskXdone.jpg]()<br>
 
 ### 2. 
 ![](task.jpg) <br>
+what I built: <br>
+![taskXdone.jpg]()<br>
 
 ### 3. 
 ![](task.jpg) <br>
+what I built: <br>
+![taskXdone.jpg]()<br>
 
 ### 4.
 ![](task.jpg) <br>
+what I built: <br>
+![taskXdone.jpg]()<br>
 
 ### 5.
 ![](task.jpg) <br>
