@@ -13,7 +13,7 @@ Web Dev Internship 2023
 ### 1. Landing Page
 ![](Task_assigned/task1.jpg) <br>
 what I built: <br>
-![Task1_LandingPage](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task_done/Task1_LandingPage.gif)<br>
+![Task1_LandingPage](Task_done/Task1_LandingPage.gif)<br>
 
 ### 2. 
 ![](task.jpg) <br>
