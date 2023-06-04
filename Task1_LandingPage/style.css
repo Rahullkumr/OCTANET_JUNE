@@ -1,0 +1,70 @@
+*{	
+	margin:0; padding:0;
+	box-sizing: border-box;
+	font-family: 'Montserrat',sans-serif;
+}
+
+.site-headers{
+	width: 100%;
+	height: 100vh;
+	background: linear-gradient(57deg, #00c6dda7, #1e4d92);
+	clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 0% 100%);
+}
+nav{
+	width: 100%;
+	height: 100px;
+	display: flex;
+	color: white;
+}
+#name{ font-family: 'Nothing You Could Do';
+ font-size: 30px;}
+.logo{width: 50%;height: 100px;}
+
+.logo h1{line-height: 100px;padding-left: 50px;}
+
+.menu{width: 50%;height: 100px;}
+
+a{	color: white;text-decoration: none;}
+
+.menu ul{
+	width: 100%; 
+	height: 100px;
+	display: flex;
+	flex-direction:row;
+	justify-content: space-around;
+	align-items: center;
+}
+.menu ul li{
+	list-style: none;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+section{ display: flex;}
+.leftside{
+	width: 45%;
+	height: auto;
+	overflow: hidden;
+	margin-top: 20px;
+}
+.leftside img{ width: 600px; height: 500px;}
+
+.rightside{ 
+	width: 55%; height: 300px;
+	color: white; text-align: center;
+	margin-top: 80px; padding: 40px;
+}
+.rightside h1{font-size: 50px; font-weight: 900;
+	text-transform: uppercase;}
+.rightside p{ font-size: 1.1rem; padding: 40px 0; }
+
+.rightside button{
+	font-size: 17px; font-weight: bold;
+	color:white; text-transform: uppercase;
+	background: linear-gradient(57deg, #00c6dda7, #1e4d92);
+	border-radius: 4px;
+	padding: 20px 35px;
+}
+.rightside button:hover{
+	background: linear-gradient(57deg, #1e4d92, #00c6a7);
+}
