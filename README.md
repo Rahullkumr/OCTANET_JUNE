@@ -2,32 +2,23 @@
 Web Dev Internship 2023
 
 ## Task Table:
-| SN | Task Name | Details | Submission Date |
-| :--- | :--- | :--- | :--- |
+| SN | Task Name | Details(clickable) | Submission Date |
+| :--- | :--- | :---: | :--- |
 | 1 | Landing Page | [Task 1](https://octanet.in/task-1/) | 7 june 2023 |
-| 2 |  | [Task 2](https://octanet.in/task-2/) |  |
+| 2 | To Do List | [Task 2](https://octanet.in/task-2/) |  |
 | 3 |  | [Task 3](https://octanet.in/task-3/) |  |
-| 4 |  | [Task 4](https://octanet.in/task-4/) |  |
-| 5 |  | [Task 5](https://octanet.in/task-5/) |  |
  
-### 1. Landing Page
-![](Task_assigned/task1.jpg) <br>
-what I built: <br>
+<br><br>
+### 1. [Landing Page](https://octanet.in/task-1/)
 ![Task1_LandingPage](Task1_LandingPage/lp.png)<br>
 
-### 2. 
-![](task.jpg) <br>
-what I built: <br>
+### 2. [To Do List](https://octanet.in/task-2/)
 ![taskXdone.jpg]()<br>
 
 ### 3. 
-![](task.jpg) <br>
-what I built: <br>
 ![taskXdone.jpg]()<br>
 
 ### 4.
-![](task.jpg) <br>
-what I built: <br>
 ![taskXdone.jpg]()<br>
 
 ### 5.
