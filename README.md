@@ -4,7 +4,7 @@ Web Dev Internship 2023
 ## Task Table:
 | SN | Task Name | Details | Submission Date |
 | :--- | :--- | :--- | :--- |
-| 1 | Landing Page | [Task 1](https://octanet.in/task-1/) | 9 june 2023 |
+| 1 | Landing Page | [Task 1](https://octanet.in/task-1/) | 7 june 2023 |
 | 2 |  | [Task 2](https://octanet.in/task-2/) |  |
 | 3 |  | [Task 3](https://octanet.in/task-3/) |  |
 | 4 |  | [Task 4](https://octanet.in/task-4/) |  |
