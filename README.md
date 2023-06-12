@@ -5,7 +5,7 @@ Web Dev Internship 2023
 | SN | Task Name | Submission Date | Details(clickable) | Tech Used |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Landing Page | 7 June 2023 | [Task 1](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task_assigned/Task%201.pdf) | HTML, CSS |
-| 2 | To Do List | June 2023 | [Task 2](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task_assigned/Task2.pdf) | HTML, Bootstrap, Flask, SQLite |
+| 2 | To Do List | June 2023 | [Task 2](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task_assigned/Task%202.pdf) | HTML, Bootstrap, Flask, SQLite |
 | 3 |  | June 2023 | [Task 3](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task_assigned/Task3.pdf) |  |
  
 <br><br>
