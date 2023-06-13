@@ -9,11 +9,11 @@ Web Dev Internship 2023
 | 3 |  | June 2023 | [Task 3](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task_assigned/Task3.pdf) |  |
  
 <br><br>
-### 1. Landing Page
+### 1. Landing Page (HTML, CSS)
 ![Task1_LandingPage](Task1_LandingPage/lp.png)<br>
 
-### 2. [To Do List](https://octanet.in/task-2/)
-![taskXdone.jpg]()<br>
+### 2. Todo List (HTML, Bootstrap, Flask and SQLite)
+![](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task2_ToDoList/todo.gif)<br>
 
 ### 3. 
 ![taskXdone.jpg]()<br>
