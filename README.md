@@ -1,5 +1,5 @@
 # OCTANET_JUNE
-Web Dev Internship 2023
+Web Development Internship 2023
 
 ## Task Table:
 | SN | Task Name | Submission Date | Details(clickable) | Tech Used |
