@@ -12,7 +12,7 @@ Web Development Internship 2023
 ### 1. Landing Page (HTML, CSS)
 ![Task1_LandingPage](Task1_LandingPage/lp.png)<br>
 
-### 2. Todo List (HTML, Bootstrap, Flask and SQLite)
+### 2. To do List (HTML, Bootstrap, Flask and SQLite)
 ![](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task2_ToDoList/todo.gif)<br>
 
 ### 3. Clone a Website
