@@ -16,4 +16,4 @@ Web Development Internship 2023
 ![](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task2_ToDoList/todo.gif)<br>
 
 ### 3. Clone a Website
-![]()<br>
+![](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task3_CloneWebsite/sps.png)<br>
