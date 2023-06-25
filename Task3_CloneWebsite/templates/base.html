@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Sunshine Public School</title>
+        <link rel="shortcut icon" type="image/png" href="https://www.sunshinezamania.com/images/favicon.png">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      </head>
+    <body>
+      <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+          <img src="/static/logo.jpeg" alt="Logo" width="60" height="60">
+        </a>
+          <label>Sunshine Public School</label>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mx-auto text-center gap-5 mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link  fw-bold" aria-current="page" href="/">HOME</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link fw-bold" href="/message">MESSAGE</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link fw-bold" href="/faculty">FACULTY</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link fw-bold" href="/activities">ACTIVITIES</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link fw-bold" href="/academics">ACADEMICS</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link fw-bold" href="/contact">CONTACT</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link fw-bold" href="/about">ABOUT</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link fw-bold" href="/signup">SIGNUP</a>
+            </li>           
+          </ul>
+        </div>
+      </div>
+    </nav>
+        {% block body %}
+        
+        {% endblock body %}
+
+    <div class="container-fluid" style="background-color: #e2e8ed;">
+      <div class="container-fluid" style="padding: 20px;">
+        <footer id="footer-part">
+          <div class="footer-top pt-40 pb-50">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-lg-5 col-md-6">
+                          <div class="footer-about mt-40">
+                              <div class="logo">
+                                  <a href="/"><img src="/static/logo-2.png" alt="Logo"></a>
+                              </div>
+                              <p>“To impart value based quality education by synthesizing the rich ancient Indian heritage with modern Science and Technology”.</p>
+                              <ul class="mt-20 list-group list-group-horizontal" style="list-style: none;">
+                                  <li class="list-group-item"><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
+                                  <li class="list-group-item"><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                  <li class="list-group-item"><a href="https://www.linkedin.com/in/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                  <li class="list-group-item"><a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                  <li class="list-group-item"><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                              </ul>
+                          </div> <!-- footer about -->
+                      </div>
+                      <div class="col-lg-3 col-md-6 col-sm-6">
+                          <div class="footer-link mt-40">
+                              <div class="footer-title pb-25">
+                                  <h6><u>Sitemap</u></h6>
+                              </div>
+                              <ul style="list-style: none; text-decoration: none;">
+                                  <li><a style="text-decoration: none;" href="/"><i></i>Home</a></li>
+                                  <li><a style="text-decoration: none;" href="/about"><i></i>About us</a></li>
+                                  <li><a style="text-decoration: none;" href="/activities"><i></i>Activities</a></li>
+                                  <li><a style="text-decoration: none;" href="/faculty"><i></i>Faculty</a></li>
+                                  <li><a style="text-decoration: none;" href="/contact"><i></i>Contact Us</a></li>
+                              </ul>
+                          </div> <!-- footer link -->
+                      </div>
+                      
+                      <div class="col-lg-4 col-md-6">
+                          <div class="footer-address mt-40">
+                              <div class="footer-title pb-25">
+                                  <h6><u>Contact Us</u></h6>
+                              </div>
+  
+                              <ul style="list-style: none;">
+                                  <li>
+                                      <div class="cont">
+                                          <p>Nava Toli, Simdega, J.H - 835211</p>
+                                      </div>
+                                  </li>
+                                  <li>
+                                      <div class="cont">
+                                          <p>+91-945 000 1830<br>05497-200017, 250008</p>
+                                      </div>
+                                  </li>
+                                  <li>
+                                      <div class="cont">
+                                          <p>sunshinejhar@gmail.com</p>
+                                      </div>
+                                  </li>
+                              </ul>
+                          </div> <!-- footer address -->
+                      </div>
+                  </div> <!-- row -->
+              </div> <!-- container -->
+          </div> <!-- footer top -->
+          
+          <div class="footer-copyright pt-10 pb-25">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-md-12">
+                          <div class="copyright mt-5 text-md-left text-center pt-15">
+                              <p>Copyright @ Sunshine Public School | All Rights Reserved</p>
+                          </div>
+                      </div>
+                  </div> <!-- row -->
+              </div> <!-- container -->
+          </div> <!-- footer copyright -->
+        </footer>
+      </div>
+    </div>
+    </body>
+</html>

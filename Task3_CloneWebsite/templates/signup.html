@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block body %} 
+
+    <div class="container mb-5 mt-5">
+        <h1>Student Registration</h1>
+        <form method="POST" action="#">
+          <div class="mb-3">
+            <label for="name" class="form-label">Name</label>
+            <input type="text" class="form-control" id="name" placeholder="Enter your name" required>
+          </div>
+          <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+          </div>
+          <div class="mb-3">
+            <label for="phone" class="form-label">Phone</label>
+            <input type="tel" class="form-control" id="phone" placeholder="Enter your phone number" required>
+          </div>
+          <div class="mb-3">
+            <label for="admissionNumber" class="form-label">Admission Number</label>
+            <input type="text" class="form-control" id="admissionNumber" placeholder="Enter your admission number" required>
+          </div>
+          <!-- Add more input fields -->
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+        <p>Already have an account? <a href="/login">Login here</a></p>
+      </div>
+    
+    
+
+{% endblock body %}
