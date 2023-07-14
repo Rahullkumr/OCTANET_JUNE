@@ -17,3 +17,5 @@ Web Development Internship 2023
 
 ### 3. Clone a Website
 ![](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task3_CloneWebsite/sps.png)<br>
+
+#fake
