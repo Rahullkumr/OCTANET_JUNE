@@ -9,7 +9,7 @@ Web Development Internship 2023
 | 3 | Clone a Website | 24 June 2023 | [Task 3](https://github.com/Rahullkumr/OCTANET_JUNE/blob/main/Task_assigned/task3.pdf) | HTML, Bootstrap, Flask, SQLite |
  
 <br><br>
-### 1. Landing Page (HTML, CSS)
+### 1. [Landing Page (HTML, CSS)](https://onlineasystem.000webhostapp.com/)
 ![Task1_LandingPage](Task1_LandingPage/lp.png)<br>
 
 ### 2. To do List (HTML, Bootstrap, Flask and SQLite)
